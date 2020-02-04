@@ -7,7 +7,18 @@ usage: python checkyoself.py USERNAME
 ```
 
 ### Requirements
-`pip install python-twitter` and you're good to go
+`pip install python-twitter`, add a valid consumer key/secret and access key/secret to a file called t.json with the below format:
+
+```json
+{
+        "consumer_key": "",
+        "consumer_secret": "",
+        "access_token_key": "",
+        "access_token_secret": ""
+}
+```
+
+, and you're good to go
 
 ### Example Output
 
