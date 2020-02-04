@@ -7,7 +7,7 @@ usage: python checkyoself.py USERNAME
 ```
 
 ### Requirements
-`pip install twint` and you're good to go
+`pip install python-twitter` and you're good to go
 
 ### Example Output
 
